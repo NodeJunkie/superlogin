@@ -51,7 +51,7 @@
     "redis": "^3.0.2",
     "sofa-model": "github:telluric/sofa-model",
     "superagent": "^5.2.2",
-    "url-parse": "^1.4.7",
+    "url-parse": "^1.5.0",
     "urlsafe-base64": "1.0.0",
     "uuid": "^7.0.3"
   },
