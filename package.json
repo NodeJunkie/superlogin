@@ -48,7 +48,7 @@
     "pouchdb-fetch": "^7.2.1",
     "pouchdb-find": "^7.2.1",
     "pouchdb-seed-design": "github:telluric/pouchdb-seed-design",
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "sofa-model": "github:telluric/sofa-model",
     "superagent": "^5.2.2",
     "url-parse": "^1.4.7",
